@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryamanntomar&label=Profile%20views&color=0e75b6&style=flat" alt="aryamanntomar" /> </p>
 
-- 🔭 I’m currently working on **Path Finder ALgorithm Generator**
+- 🔭 I’m currently working on **Path Finder Algorithm Generator**
 
 - 🌱 I’m currently learning **React Hooks**
 
