@@ -1,5 +1,5 @@
 <p align="center">
-  <strong style="font-size: 32px;">TomarxAryamann</strong>
+  <strong style="font-size: 64px;">TomarxAryamann</strong>
   <br>
   <img src="https://iili.io/3FvRKfn.md.png" alt="TomarxAryamann Logo" width="100">
 </p>
