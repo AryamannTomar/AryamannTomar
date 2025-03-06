@@ -1,7 +1,7 @@
 <p align="center">
-  <strong style="font-size: 64px;">TomarxAryamann</strong>
+  <strong>TomarxAryamann</strong>
   <br>
-  <img src="https://iili.io/3FvRKfn.md.png" alt="TomarxAryamann Logo" width="100">
+  <img src="https://iili.io/3FvRKfn.md.png" alt="TomarxAryamann Logo" width="500">
 </p>
 
 <h3 align="center">Quite Puzzled Rn! Trying to Figure Out What is Happening Near me</h3>
