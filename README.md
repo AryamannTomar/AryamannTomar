@@ -1,7 +1,10 @@
 <div align="center">
-  <h1>Tomar <i>x</i> Aryamann</h1>
+  <h1>Tomar <a href="https://github.com/AryamannTomar/Codes_tle_eliminators" style="text-decoration: none;">
+    <i style="color: red; font-size: 1.2em; font-weight: bold; text-shadow: 2px 2px 5px rgba(255, 0, 0, 0.5); transform: rotate(10deg); display: inline-block;">x</i>
+  </a> Aryamann</h1>
   <img src="https://iili.io/3FvRKfn.md.png" alt="TomarxAryamann Logo" width="350">
 </div>
+
 
 <h3 align="center">Quite Puzzled Rn! Trying to Figure Out What is Happening Near me</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryamanntomar&label=Profile%20views&color=0e75b6&style=flat" alt="aryamanntomar"/></p>
