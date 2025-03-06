@@ -2,10 +2,6 @@
   <h1>TomarxAryamann</h1>
   <img src="https://iili.io/3FvRKfn.md.png" alt="TomarxAryamann Logo" width="350">
 </div>
-<p align="center">
-  <br>
-  <img src="https://iili.io/3FvRKfn.md.png" alt="TomarxAryamann Logo" width="350">
-</p>
 
 <h3 align="center">Quite Puzzled Rn! Trying to Figure Out What is Happening Near me</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryamanntomar&label=Profile%20views&color=0e75b6&style=flat" alt="aryamanntomar"/></p>
