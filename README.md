@@ -1,4 +1,9 @@
-  #                                TomarxAryamann <img src="https://iili.io/3FvRKfn.md.png" alt="TomarxAryamann Logo" width="100" align="center">
+<p align="center">
+  <strong style="font-size: 32px;">TomarxAryamann</strong>
+  <br>
+  <img src="https://iili.io/3FvRKfn.md.png" alt="TomarxAryamann Logo" width="100">
+</p>
+
 <h3 align="center">Quite Puzzled Rn! Trying to Figure Out What is Happening Near me</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryamanntomar&label=Profile%20views&color=0e75b6&style=flat" alt="aryamanntomar"/></p>
 <h1><a href="https://github.com/AryamannTomar/Codes_tle_eliminators">Click Here to Get Spooked!</a></h1>
