@@ -1,4 +1,4 @@
-<p align="center"># TomarxAryamann</p>
+<p align="center"><h1> TomarxAryamann </h1></p>
 <p align="center">
   <br>
   <img src="https://iili.io/3FvRKfn.md.png" alt="TomarxAryamann Logo" width="350">
