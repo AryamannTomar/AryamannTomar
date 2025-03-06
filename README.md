@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>TomarxAryamann</h1>
+  <h1>Tomar <i>x</i> Aryamann</h1>
   <img src="https://iili.io/3FvRKfn.md.png" alt="TomarxAryamann Logo" width="350">
 </div>
 
