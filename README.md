@@ -1,4 +1,4 @@
-# TomarxAryamann <img src="https://iili.io/3FvRKfn.md.png" alt="TomarxAryamann Logo" width="50" align="center">
+                                             # TomarxAryamann <img src="https://iili.io/3FvRKfn.md.png" alt="TomarxAryamann Logo" width="100" align="center">
 
 <h3 align="center">Quite Puzzled Rn! Trying to Figure Out What is Happening Near me</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryamanntomar&label=Profile%20views&color=0e75b6&style=flat" alt="aryamanntomar"/></p>
