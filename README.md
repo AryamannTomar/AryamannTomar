@@ -1,7 +1,7 @@
+#TomarxAryamann
 <p align="center">
-  <strong>TomarxAryamann</strong>
   <br>
-  <img src="https://iili.io/3FvRKfn.md.png" alt="TomarxAryamann Logo" width="500">
+  <img src="https://iili.io/3FvRKfn.md.png" alt="TomarxAryamann Logo" width="350">
 </p>
 
 <h3 align="center">Quite Puzzled Rn! Trying to Figure Out What is Happening Near me</h3>
