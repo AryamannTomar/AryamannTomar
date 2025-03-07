@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Tomar <a href="https://github.com/AryamannTomar/Codes_tle_eliminators/blob/main/Prog.txt" style="text-decoration: none;"><i>x</i></a><a href="https://github.com/AryamannTomar/SysDesign/blob/main/Prog.txt" style="text-decoration: none;"><i>y</i></a> Aryamann</h1>
+  <h1>Tomar <a href="https://github.com/AryamannTomar/Codes_tle_eliminators/blob/main/Prog.txt" style="text-decoration: none;"><i>x</i></a><a href="https://github.com/AryamannTomar/SysDesign/blob/main" style="text-decoration: none;"><i>y</i></a> Aryamann</h1>
   <img src="https://iili.io/3FvRKfn.md.png" alt="TomarxAryamann Logo" width="350">
 </div>
 <h3 align="center">Quite Puzzled Rn! Trying to Figure Out What is Happening Near me</h3>
