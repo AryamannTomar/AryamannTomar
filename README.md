@@ -14,9 +14,9 @@
 ```mermaid
 %%{init: {
   "themeVariables": {
-    "fontSize": "18px",
+    "fontSize": "24px",
     "nodePadding": "15",
-    "edgeLabelFontSize": "16px"
+    "edgeLabelFontSize": "27px"
   }
 }}%%
 flowchart TD
