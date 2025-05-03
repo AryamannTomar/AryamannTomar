@@ -48,3 +48,5 @@ flowchart TD
 
   %% chain them all
   A1 --> A2 --> A3 --> A4 --> A5 --> A6 --> MS_Apps --> A15 --> A16 --> Bangkok_Details --> A17 --> A18
+```
+
