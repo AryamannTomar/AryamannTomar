@@ -49,7 +49,7 @@ flowchart TD
   subgraph Bangkok_Details [Trip Highlights]
     direction TB
     B1["<table><tr><td align='left'><b>•</b></td><td align='left'>Full-time healthy non-veg</td></tr></table>"]
-    B2["<table><tr><td align='left'><b>•</b></td><td align='left'>Gym Regular for 4 months</td></tr></table>"]
+    B2["<table><tr><td align='left'><b>•</b></td><td align='left'>Regular Gym</td></tr></table>"]
     B3["<table><tr><td align='left'><b>•</b></td><td align='left'>Styling clothes</td></tr></table>"]
     B4["<table><tr><td align='left'><b>•</b></td><td align='left'>Grooming</td></tr></table>"]
   end
