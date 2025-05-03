@@ -10,41 +10,41 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+
+```mermaid
 flowchart TD
-  %% 2022
-  A1["22 Oct 2022<br/>Selected in GSTN – Software Engineer"]
+  A1["<table><tr><td align='left'><b>22 Oct 2022</b></td><td align='left'>Selected in GSTN – Software Engineer</td></tr></table>"]
+  A2["<table><tr><td align='left'><b>Jan 2023</b></td><td align='left'>Full-time Research Associate @ IIIT Hyderabad</td></tr></table>"]
+  A3["<table><tr><td align='left'><b>08 Jul 2023</b></td><td align='left'>TOEFL 101/120</td></tr></table>"]
+  A4["<table><tr><td align='left'><b>10 Jul 2023</b></td><td align='left'>Joined GSTN as FT employee</td></tr></table>"]
+  A5["<table><tr><td align='left'><b>Sep 2023</b></td><td align='left'>ASONAM’23 IEEE – 1st paper accepted</td></tr></table>"]
   
-  %% 2023
-  A2["Jan 2023<br/>Full-time Research Associate<br/>IIIT Hyderabad"]
-  A3["08 Jul 2023<br/>TOEFL 101/120"]
-  A4["10 Jul 2023<br/>Joined GSTN as FT employee"]
-  A5["Sep 2023<br/>ASONAM’23 IEEE – 1st paper accepted"]
-  
-  %% 2024
-  A6["08 Jul 2024<br/>GRE 306/340"]
+  A6["<table><tr><td align='left'><b>08 Jul 2024</b></td><td align='left'>GRE 306/340</td></tr></table>"]
   subgraph MS_Apps [Sep 2024 – MS Applications]
     direction TB
-    A7["UT Dallas (CSE) – Accepted"]
-    A8["USC (Scientist & Engineers CSE) – Accepted"]
-    A9["UMass Amherst (CSE) – Accepted"]
-    A10["ASU (Electrical Engg) – Accepted"]
-    A11["Purdue (Electrical Engg) – Accepted"]
-    A12["Purdue (CSE) – Rejected"]
-    A13["CMU (EE) – Rejected"]
-    A14["NEU (CSE) – Rejected"]
+    A7["<table><tr><td align='left'><b>UT Dallas</b></td><td align='left'>(CSE) – Accepted</td></tr></table>"]
+    A8["<table><tr><td align='left'><b>USC</b></td><td align='left'>(Scientist & Engineers CSE) – Accepted</td></tr></table>"]
+    A9["<table><tr><td align='left'><b>UMass Amherst</b></td><td align='left'>(CSE) – Accepted</td></tr></table>"]
+    A10["<table><tr><td align='left'><b>ASU</b></td><td align='left'>(EE) – Accepted</td></tr></table>"]
+    A11["<table><tr><td align='left'><b>Purdue</b></td><td align='left'>(EE) – Accepted</td></tr></table>"]
+    A12["<table><tr><td align='left'><b>Purdue</b></td><td align='left'>(CSE) – Rejected</td></tr></table>"]
+    A13["<table><tr><td align='left'><b>CMU</b></td><td align='left'>(EE) – Rejected</td></tr></table>"]
+    A14["<table><tr><td align='left'><b>NEU</b></td><td align='left'>(CSE) – Rejected</td></tr></table>"]
   end
-  A15["Dec 2024<br/>US Visa – Rejected"]
+
+  A15["<table><tr><td align='left'><b>Dec 2024</b></td><td align='left'>US Visa – Rejected</td></tr></table>"]
   
-  %% 2025
-  A16["Jan 2025<br/>Bangkok Trip – Life-changing"]
+  A16["<table><tr><td align='left'><b>Jan 2025</b></td><td align='left'>Bangkok Trip – Canonical Event</td></tr></table>"]
   subgraph Bangkok_Details [Trip Highlights]
     direction TB
-    B1["Full-time healthy non-veg"]
-    B2["Gym regular for 4 months"]
-    B3["Styling clothes"]
+    B1["<table><tr><td align='left'><b>•</b></td><td align='left'>Full-time healthy non-veg</td></tr></table>"]
+    B2["<table><tr><td align='left'><b>•</b></td><td align='left'>Gym regular for 4 months</td></tr></table>"]
+    B3["<table><tr><td align='left'><b>•</b></td><td align='left'>Styling clothes</td></tr></table>"]
+    B4["<table><tr><td align='left'><b>•</b></td><td align='left'>Grooming</td></tr></table>"]
   end
-  A17["Apr 2025<br/>Offered Sr. Data Scientist @ GEP Worldwide, Hyderabad"]
-  A18["04 Jul 2025<br/>Last working day at GSTN"]
   
-  %% links
+  A17["<table><tr><td align='left'><b>Apr 2025</b></td><td align='left'>Offered Sr. Data Scientist @ GEP Worldwide, Hyderabad</td></tr></table>"]
+  A18["<table><tr><td align='left'><b>04 Jul 2025</b></td><td align='left'>Last working day at GSTN</td></tr></table>"]
+
+  %% chain them all
   A1 --> A2 --> A3 --> A4 --> A5 --> A6 --> MS_Apps --> A15 --> A16 --> Bangkok_Details --> A17 --> A18
