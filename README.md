@@ -12,6 +12,13 @@
 
 
 ```mermaid
+%%{init: {
+  "themeVariables": {
+    "fontSize": "18px",
+    "nodePadding": "15",
+    "edgeLabelFontSize": "16px"
+  }
+}}%%
 flowchart TD
   A1["<table><tr><td align='left'><b>22 Oct 2022</b></td><td align='left'>Selected in GSTN – Software Engineer</td></tr></table>"]
   A2["<table><tr><td align='left'><b>Jan 2023</b></td><td align='left'>Full-time Research Associate @ IIIT Hyderabad</td></tr></table>"]
