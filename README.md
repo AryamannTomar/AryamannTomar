@@ -14,13 +14,19 @@
 ```mermaid
 %%{init: {
   "themeVariables": {
-    "fontSize": "28px",
-    "nodePadding": "20px",
-    "edgeLabelFontSize": "30px"
+    "fontSize": "20px",
+    "nodePadding": "12px",
+    "edgeLabelFontSize": "16px"
   },
   "themeConfig": {
-    "nodeTextMargin": 5,
-    "padding": 15
+    "nodeTextMargin": 4,
+    "padding": 10
+  },
+  "config": {
+    "flowchart": {
+      "useMaxWidth": false,
+      "htmlLabels": true
+    }
   }
 }}%%
 flowchart TD
