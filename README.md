@@ -45,13 +45,13 @@ flowchart TD
 
   A15["<table><tr><td align='left'><b>Dec 2024</b></td><td align='left'>US Visa – Rejected</td></tr></table>"]
   A16["<table><tr><td align='left'><b>Jan 2025</b></td><td align='left'>Bangkok Trip – Canonical Event</td></tr></table>"]
-  A17["<table><tr><td align='left'><b>23 Apr 2025</b></td><td align='left'>Offered Sr. Data Scientist @ GEP Worldwide, Hyderabad</td></tr></table>"]
-  A18["<table><tr><td align='left'><b>10 Jul 2025</b></td><td align='left'>Exactly 2 Years After - Last working day at GSTN</td></tr></table>"]
-  A19["<table><tr><td align='left'><b>14 Jul 2025</b></td><td align='left'>Joined GEP</td></tr></table>"]
+  A17["<table><tr><td align='left'><b>23Apr</b></td><td align='left'>Offered Sr. Data Scientist @ GEP Worldwide, Hyderabad</td></tr></table>"]
+  A18["<table><tr><td align='left'><b>10Jul</b></td><td align='left'>Exactly 2 Years After - Last working day at GSTN</td></tr></table>"]
+  A19["<table><tr><td align='left'><b>14Jul</b></td><td align='left'>Joined GEP</td></tr></table>"]
 
 
   %% chain them all
-  A1 --> A2 --> A3 --> A4 --> A5 --> A6 --> MS_Apps --> A15 --> A16 --> A17 --> A18
+  A1 --> A2 --> A3 --> A4 --> A5 --> A6 --> MS_Apps --> A15 --> A16 --> A17 --> A18 --> A19
 ```
 
 
